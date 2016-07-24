@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="86409" started-at="2016-07-16T08:00:21Z" finished-at="2016-07-16T08:01:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="86409" started-at="2016-07-16T08:00:21Z" finished-at="2016-07-16T08:01:48Z">
+      <class name="testScripts.Senario_login">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testScripts.Senario_login@5e7e6ceb]" name="launchBrowser" is-config="true" duration-ms="11346" started-at="2016-07-16T13:30:21Z" finished-at="2016-07-16T13:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Invalid_login()[pri:0, instance:testScripts.Senario_login@5e7e6ceb]" name="Invalid_login" duration-ms="12838" started-at="2016-07-16T13:30:33Z" finished-at="2016-07-16T13:30:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.Senario_login@5e7e6ceb]" name="tearDown" is-config="true" duration-ms="1537" started-at="2016-07-16T13:30:45Z" finished-at="2016-07-16T13:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testScripts.Senario_login@5e7e6ceb]" name="launchBrowser" is-config="true" duration-ms="7381" started-at="2016-07-16T13:30:47Z" finished-at="2016-07-16T13:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Valid_Login_test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testScripts.Senario_login@5e7e6ceb]" name="Valid_Login_test" duration-ms="18378" started-at="2016-07-16T13:30:54Z" data-provider="DP_validlogin" finished-at="2016-07-16T13:31:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qtpworld2008@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[learn123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qtpworld2008 g]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Login_test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.Senario_login@5e7e6ceb]" name="tearDown" is-config="true" duration-ms="1292" started-at="2016-07-16T13:31:13Z" finished-at="2016-07-16T13:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.Senario_login -->
+      <class name="testScripts.Search_Scenario">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testScripts.Search_Scenario@3e20e8c4]" name="launchBrowser" is-config="true" duration-ms="9877" started-at="2016-07-16T13:31:14Z" finished-at="2016-07-16T13:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Invalid_Search()[pri:0, instance:testScripts.Search_Scenario@3e20e8c4]" name="Invalid_Search" duration-ms="5460" started-at="2016-07-16T13:31:24Z" finished-at="2016-07-16T13:31:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_Search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.Search_Scenario@3e20e8c4]" name="tearDown" is-config="true" duration-ms="1221" started-at="2016-07-16T13:31:29Z" finished-at="2016-07-16T13:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testScripts.Search_Scenario@3e20e8c4]" name="launchBrowser" is-config="true" duration-ms="8505" started-at="2016-07-16T13:31:31Z" finished-at="2016-07-16T13:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Valid_Search()[pri:0, instance:testScripts.Search_Scenario@3e20e8c4]" name="Valid_Search" duration-ms="7154" started-at="2016-07-16T13:31:39Z" finished-at="2016-07-16T13:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.Search_Scenario@3e20e8c4]" name="tearDown" is-config="true" duration-ms="1316" started-at="2016-07-16T13:31:46Z" finished-at="2016-07-16T13:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.Search_Scenario -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

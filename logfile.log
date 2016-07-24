@@ -1,0 +1,6 @@
+2016-07-24 11:41:09 INFO  Senario_login:28 - Initialized browser for valid login scenario
+2016-07-24 11:41:09 INFO  Senario_login:30 - launched home page
+2016-07-24 11:41:12 INFO  Senario_login:32 - successfully in login page
+2016-07-24 11:41:13 INFO  Senario_login:35 - Enter login info correctly
+2016-07-24 11:41:13 INFO  Senario_login:40 - Validation successfull
+2016-07-24 11:41:15 INFO  Senario_login:50 - Closing browser

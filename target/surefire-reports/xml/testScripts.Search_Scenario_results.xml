@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.683">
+  <properties />
+  
+  
+            <testcase name="Valid_Search" time="1.701" classname="testScripts.Search_Scenario" />
+                <testcase name="Valid_Search" time="4.133" classname="testScripts.Search_Scenario" />
+                <testcase name="Valid_Search" time="2.849" classname="testScripts.Search_Scenario" />
+      
+</testsuite>
